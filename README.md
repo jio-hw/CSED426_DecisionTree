@@ -10,3 +10,8 @@ $ git clone https://github.com/yuoa-hw/CSED426_DecisionTree.git
 $ pip install graphviz sklearn
 $ python decide.py
 ```
+
+## Notice
+This is not good implementation of Decision Tree.  
+Actually, the competition score was not so good.  
+So, please just refer this when you start your own assignment.
