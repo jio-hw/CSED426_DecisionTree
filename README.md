@@ -6,7 +6,7 @@
 
 ## Run
 ```sh
-$ git clone https://github.com/yuoa-hw/CSED426_DecisionTree.git
+$ git clone https://github.com/jio-hw/CSED426_DecisionTree.git
 $ pip install graphviz sklearn
 $ python decide.py
 ```
